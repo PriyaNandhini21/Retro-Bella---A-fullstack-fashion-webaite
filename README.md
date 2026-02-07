@@ -70,6 +70,6 @@ Right-click frontend/index.html and select "Open with Live Server".
 
 Sign up a new user, log in, and explore the store!
 
-A project by Muthu PriyaNandhini 
+A project by Muthu PriyaNandhini AND Anudeep R Gayakwad
 
 
